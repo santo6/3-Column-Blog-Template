@@ -1,0 +1,24 @@
+*{
+margin:2px;
+padding:0px;
+}
+.banar{
+width:100%;
+height:auto;	
+}
+.menu{
+padding:10px 30px;	
+}
+.Categorles{
+background-color: #3bced2;
+color: white;
+text-align: center;	
+}
+.imagcenter{
+width:100%;	
+}
+.searchrow{
+background-color:light;	
+height:30px;
+border-top:4px solid #3bced2;
+}
